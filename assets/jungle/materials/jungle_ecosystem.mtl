@@ -1,0 +1,162 @@
+# ========================================================
+# COMPREHENSIVE JUNGLE & FOREST ECOSYSTEM MATERIAL LIBRARY
+# ========================================================
+
+# --- Canopy & Leaves ---
+newmtl M_Canopy_DeepEmerald
+Ka 0.12 0.38 0.16
+Kd 0.16 0.52 0.22
+Ks 0.15 0.15 0.15
+Ns 20.0
+illum 2
+
+newmtl M_Canopy_VibrantGreen
+Ka 0.20 0.50 0.18
+Kd 0.28 0.68 0.24
+Ks 0.18 0.18 0.18
+Ns 22.0
+illum 2
+
+newmtl M_Canopy_JungleChartreuse
+Ka 0.30 0.56 0.15
+Kd 0.42 0.76 0.22
+Ks 0.20 0.20 0.20
+Ns 25.0
+illum 2
+
+newmtl M_Canopy_DarkUnderstory
+Ka 0.10 0.30 0.12
+Kd 0.14 0.42 0.18
+Ks 0.10 0.10 0.10
+Ns 15.0
+illum 2
+
+# --- Trunks, Bark & Roots ---
+newmtl M_Bark_MahoganyBrown
+Ka 0.32 0.22 0.15
+Kd 0.42 0.30 0.20
+Ks 0.08 0.08 0.08
+Ns 10.0
+illum 2
+
+newmtl M_Bark_MossyTimber
+Ka 0.24 0.28 0.16
+Kd 0.34 0.38 0.22
+Ks 0.10 0.10 0.10
+Ns 12.0
+illum 2
+
+newmtl M_Root_ExposedWood
+Ka 0.36 0.24 0.16
+Kd 0.48 0.32 0.22
+Ks 0.12 0.12 0.12
+Ns 12.0
+illum 2
+
+# --- Undergrowth, Vines, Ferns & Flora ---
+newmtl M_Undergrowth_LushLeaf
+Ka 0.15 0.45 0.20
+Kd 0.22 0.62 0.28
+Ks 0.18 0.18 0.18
+Ns 20.0
+illum 2
+
+newmtl M_Fern_FrondGreen
+Ka 0.18 0.48 0.16
+Kd 0.25 0.66 0.22
+Ks 0.16 0.16 0.16
+Ns 18.0
+illum 2
+
+newmtl M_Vine_CreepingGreen
+Ka 0.16 0.40 0.18
+Kd 0.24 0.58 0.26
+Ks 0.12 0.12 0.12
+Ns 15.0
+illum 2
+
+newmtl M_Fungi_CapOrange
+Ka 0.60 0.28 0.10
+Kd 0.88 0.42 0.12
+Ks 0.25 0.25 0.25
+Ns 24.0
+illum 2
+
+# --- Terrain & Ground Soil ---
+newmtl M_Terrain_JungleSoil
+Ka 0.28 0.20 0.14
+Kd 0.38 0.28 0.18
+Ks 0.05 0.05 0.05
+Ns 8.0
+illum 2
+
+newmtl M_Terrain_DampMud
+Ka 0.22 0.16 0.12
+Kd 0.30 0.22 0.16
+Ks 0.35 0.35 0.35
+Ns 45.0
+illum 2
+
+newmtl M_Terrain_MossPatch
+Ka 0.20 0.44 0.18
+Kd 0.28 0.60 0.25
+Ks 0.10 0.10 0.10
+Ns 10.0
+illum 2
+
+newmtl M_Terrain_LeafLitter
+Ka 0.40 0.28 0.14
+Kd 0.56 0.38 0.18
+Ks 0.08 0.08 0.08
+Ns 10.0
+illum 2
+
+newmtl M_Terrain_BarrenSand
+Ka 0.52 0.44 0.30
+Kd 0.72 0.60 0.42
+Ks 0.06 0.06 0.06
+Ns 6.0
+illum 2
+
+newmtl M_Rock_SlateMoss
+Ka 0.28 0.32 0.28
+Kd 0.42 0.46 0.40
+Ks 0.14 0.14 0.14
+Ns 15.0
+illum 2
+
+# --- Fauna ---
+newmtl M_Fauna_DeerCoat
+Ka 0.45 0.30 0.18
+Kd 0.62 0.42 0.25
+Ks 0.15 0.15 0.15
+Ns 20.0
+illum 2
+
+newmtl M_Fauna_FoxCoat
+Ka 0.60 0.25 0.10
+Kd 0.82 0.38 0.15
+Ks 0.18 0.18 0.18
+Ns 22.0
+illum 2
+
+newmtl M_Fauna_PrimateCoat
+Ka 0.25 0.20 0.16
+Kd 0.36 0.28 0.22
+Ks 0.12 0.12 0.12
+Ns 16.0
+illum 2
+
+newmtl M_Fauna_BirdPlumage
+Ka 0.15 0.35 0.65
+Kd 0.20 0.48 0.88
+Ks 0.25 0.25 0.25
+Ns 30.0
+illum 2
+
+newmtl M_Fauna_SnakeScales
+Ka 0.24 0.42 0.15
+Kd 0.35 0.58 0.22
+Ks 0.32 0.32 0.32
+Ns 40.0
+illum 2
